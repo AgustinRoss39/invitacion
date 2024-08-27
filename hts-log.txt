@@ -1,0 +1,17 @@
+HTTrack3.49-1+htsswf+htsjava launched on Tue, 27 Aug 2024 14:17:30 at https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/ -O1 "C:\Mis lugares Web\Test" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:18:49	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/)
+14:19:01	Error: 	"Not Found" (404) at link https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/a (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+14:19:01	Error: 	"Not Found" (404) at link https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/POST (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+14:19:01	Error: 	"Not Found" (404) at link https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+14:19:01	Error: 	"Not Found" (404) at link https://eventobonito.com/invitaciones-digitales-de-xv/elegantes/modelo10/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+14:19:01	Error: 	"Not Found" (404) at link https://eventobonito.com/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js?v=next)
+
+HTTrack Website Copier/3.49-1 mirror complete in 1 minutes 31 seconds : 104 links scanned, 97 files written (37257933 bytes overall) [34996117 bytes received at 384572 bytes/sec], 4644464 bytes transferred using HTTP compression in 78 files, ratio 21%, 17.3 requests per connection
+(6 errors, 0 warnings, 0 messages)

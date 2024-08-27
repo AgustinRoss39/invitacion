@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+eventobonito.com	TRUE	/	FALSE	1999999999	wmc_ip_info	eyJjb3VudHJ5IjoiQVIiLCJjdXJyZW5jeV9jb2RlIjoiQVJTIn0%3D
+eventobonito.com	TRUE	/	FALSE	1999999999	wmc_current_currency	EUR
+eventobonito.com	TRUE	/	FALSE	1999999999	wmc_current_currency_old	EUR
+
